@@ -27,7 +27,7 @@ The following artifacts define the architectural changes for this issue.
 
 ```mermaid
 C4Component
-    title Component Diagram for Secure Configuration & Logging (Refined)
+    title Component Diagram for Secure Configuration & Logging
 
     Person(operator, "Operator / Developer")
     System(log_ingestion, "Log Ingestion Platform", "e.g., AWS CloudWatch Logs")
