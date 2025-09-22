@@ -18,9 +18,7 @@
         *   **Vendor Lock-in:** Creates a dependency on specific technologies (GitHub Actions, AWS ECR, AWS App Runner). This is a strategic and acceptable trade-off for the simplicity and power of a fully managed platform.
         *   **Credential Management:** Requires the secure storage of AWS credentials as secrets within GitHub Actions to grant the pipeline deployment permissions. This must be managed carefully.
 
-#### **3. Design the Architecture-as-Code (AaC)**
-
-The following artifacts define the CI/CD architecture.
+#### **Design the Architecture-as-Code (AaC)**
 
 *   **Logical View (C4 System Context Diagram)**
 

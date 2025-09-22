@@ -16,9 +16,7 @@
     *   **Cons:**
         *   This is a necessary addition of complexity to the application. There are no significant negative trade-offs, as this work is the primary goal of the project.
 
-#### **3. Design the Architecture-as-Code (AaC)**
-
-The following artifacts define the architectural changes for this issue.
+#### **Design the Architecture-as-Code (AaC)**
 
 *   **Logical View (C4 Component Diagram)**
 

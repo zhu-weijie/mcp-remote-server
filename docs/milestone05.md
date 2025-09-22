@@ -19,9 +19,7 @@
         *   **Increased Cost:** Running a second, potentially larger, environment in AWS will incur additional costs. This is a necessary and standard operational cost for a production service.
         *   **CI/CD Complexity:** The GitHub Actions workflow will become more complex to handle the conditional logic for tag-based vs. branch-based deployments. This is a manageable and well-understood pattern.
 
-#### **3. Design the Architecture-as-Code (AaC)**
-
-The following artifacts define the architectural changes for this issue.
+#### **Design the Architecture-as-Code (AaC)**
 
 *   **Logical View (C4 System Context Diagram)**
 

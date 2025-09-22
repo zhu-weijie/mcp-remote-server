@@ -19,8 +19,6 @@
 
 #### **Design the Architecture-as-Code (AaC)**
 
-The following artifacts define the architectural changes for this issue.
-
 *   **Logical View (C4 Component Diagram)**
 
     *This diagram shows the new logical components being introduced *inside* the existing FastAPI service.*
